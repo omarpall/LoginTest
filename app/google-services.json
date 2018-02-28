@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "775714053442",
+    "firebase_url": "https://logintest-2ef63.firebaseio.com",
+    "project_id": "logintest-2ef63",
+    "storage_bucket": "logintest-2ef63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775714053442:android:61dafebee1dae464",
+        "android_client_info": {
+          "package_name": "com.example.notandi.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775714053442-39qgfon9oia0nktv7nk18fvolk63qh87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqtlrMDier4elgiTogmEPFNCF7WnUk8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
